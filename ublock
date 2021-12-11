@@ -8,3 +8,5 @@ bichill.tv##.player-under-kubet
 ! 2021-11-05 https://bichill.tv
 bichill.tv###ad_pc_bottom_float
 
+@@||blog.51sec.org^$generichide
+blog.51sec.org#script:inject(bab-defuser.js)
