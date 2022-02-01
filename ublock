@@ -10,3 +10,7 @@ bichill.tv###ad_pc_bottom_float
 
 @@||blog.51sec.org^$generichide
 blog.51sec.org#script:inject(bab-defuser.js)
+
+! 2022-02-01 https://www.wowebook.org
+www.wowebook.org##.collapsed.s1.sidebar
+www.wowebook.org##.collapsed.s2.sidebar
